@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#list1 {
+    list-style-type: disc;
+    list-style-type: none;
+    text-align: start;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ul ul {
+    list-style-type: circle;
+}
+
+ul, ol {
+    background-color: beige;
+    width: max-content;
+}
